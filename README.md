@@ -1,6 +1,6 @@
 Package gerrors
 
-`go get github.com/archomai/gerrors'
+`go get github.com/archomai/gerrors`
 
 ```go
 if err != nil {

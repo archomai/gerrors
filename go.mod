@@ -1,3 +1,3 @@
-module example.com/gerrors
+module github.com/archomai/gerrors
 
 go 1.16
